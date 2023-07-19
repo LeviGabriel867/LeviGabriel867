@@ -1,6 +1,6 @@
 ### Olá! Eu sou Levi Gabriel👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/levi-gabriel-ufc-452091276)
+)](https://www.linkedin.com/in/levi-gabriel-ufc-452091276/)
 
 ![Levi Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviGabriel&show_icons=true&theme=cobalt)
 
