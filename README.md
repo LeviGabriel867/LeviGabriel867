@@ -15,6 +15,6 @@
      <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <div><br>
 
-Apaixonado por tecnologia e em novos saberes.<br>🫡
+Apaixonado por tecnologia e em novos saberes.🫡<br>
 E-mail para contato: levideveloper373@gmail.com
 
