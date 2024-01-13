@@ -16,5 +16,5 @@
 <div><br>
 
 Apaixonado por tecnologia e em novos saberes.🫡<br>
-E-mail para contato: levideveloper373@gmail.com
+E-mail para contato: araujorodrigueslevigabriel@gmail.com
 
